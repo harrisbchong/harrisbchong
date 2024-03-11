@@ -1,4 +1,4 @@
-# Hello, I'm Harris Chong
+# Hey, I'm Harris 
 A Computer Science student at the University of Toronto. 
 
 You can learn more about me at <a href="https://harrischong.com/">harrischong.com</a>.
